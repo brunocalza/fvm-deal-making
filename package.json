@@ -1,0 +1,22 @@
+{
+  "name": "fvm-deal-making",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@zondax/filecoin-solidity": "^4.0.3",
+    "dotenv": "^16.3.1",
+    "hardhat-deploy": "^0.11.31",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13"
+  }
+}
